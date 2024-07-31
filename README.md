@@ -10,6 +10,7 @@ This project is a minimal clone of the popular 2048 game🕹️, designed to run
 - Custom dimention
 ## Instructions
 ## Compilation
+Simply run this command in terminal:
 ```shell
 c++ .\main.cpp .\leaderboard.cpp .\menu.cpp .\header.h -lwinmm
 ```
